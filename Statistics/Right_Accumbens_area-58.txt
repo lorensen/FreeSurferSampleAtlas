@@ -1,0 +1,12 @@
+Name:  Right_Accumbens_area
+Label: 58
+    count: 769
+    min: 61
+    max: 106
+    median: 1638.38
+    mean: 85.3472
+    sigma: 5.72211
+    variance: 32.7426
+    sum: 65632
+    region: index(112, 122, 139) size(12, 13, 17)
+    bounding box: (112, 123) (122, 134) (139, 155) 

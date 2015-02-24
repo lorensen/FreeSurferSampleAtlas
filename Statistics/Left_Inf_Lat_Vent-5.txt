@@ -1,0 +1,12 @@
+Name:  Left_Inf_Lat_Vent
+Label: 5
+    count: 255
+    min: 29
+    max: 86
+    median: 1638.38
+    mean: 60.5137
+    sigma: 9.6827
+    variance: 93.7547
+    sum: 15431
+    region: index(146, 121, 91) size(17, 29, 41)
+    bounding box: (146, 162) (121, 149) (91, 131) 

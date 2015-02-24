@@ -1,0 +1,12 @@
+Name:  Right_Inf_Lat_Vent
+Label: 44
+    count: 143
+    min: 33
+    max: 75
+    median: 1638.38
+    mean: 52.5944
+    sigma: 8.82477
+    variance: 77.8766
+    sum: 7521
+    region: index(92, 135, 118) size(18, 11, 11)
+    bounding box: (92, 109) (135, 145) (118, 128) 

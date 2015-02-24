@@ -1,0 +1,12 @@
+Name:  Brain_Stem
+Label: 16
+    count: 28257
+    min: 48
+    max: 123
+    median: 1638.38
+    mean: 105.841
+    sigma: 8.18771
+    variance: 67.0387
+    sum: 2.99076e+06
+    region: index(107, 127, 85) size(40, 63, 38)
+    bounding box: (107, 146) (127, 189) (85, 122) 

@@ -1,0 +1,12 @@
+Name:  Right_vessel
+Label: 62
+    count: 23
+    min: 58
+    max: 84
+    median: 1638.38
+    mean: 70.5652
+    sigma: 7.90757
+    variance: 62.5296
+    sum: 1623
+    region: index(101, 130, 130) size(4, 3, 6)
+    bounding box: (101, 104) (130, 132) (130, 135) 

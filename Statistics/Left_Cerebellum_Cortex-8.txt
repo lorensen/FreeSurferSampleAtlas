@@ -1,0 +1,12 @@
+Name:  Left_Cerebellum_Cortex
+Label: 8
+    count: 66021
+    min: 27
+    max: 137
+    median: 1638.38
+    mean: 87.9636
+    sigma: 11.3326
+    variance: 128.428
+    sum: 5.80744e+06
+    region: index(124, 127, 38) size(56, 61, 72)
+    bounding box: (124, 179) (127, 187) (38, 109) 

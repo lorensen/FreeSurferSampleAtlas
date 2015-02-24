@@ -1,0 +1,12 @@
+Name:  Optic_Chiasm
+Label: 85
+    count: 314
+    min: 53
+    max: 112
+    median: 1638.38
+    mean: 89.0255
+    sigma: 14.9807
+    variance: 224.421
+    sum: 27954
+    region: index(118, 138, 135) size(18, 7, 9)
+    bounding box: (118, 135) (138, 144) (135, 143) 

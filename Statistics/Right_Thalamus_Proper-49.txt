@@ -1,0 +1,12 @@
+Name:  Right_Thalamus_Proper
+Label: 49
+    count: 11304
+    min: 52
+    max: 116
+    median: 1638.38
+    mean: 103.594
+    sigma: 8.77224
+    variance: 76.9522
+    sum: 1.17103e+06
+    region: index(102, 107, 94) size(28, 26, 42)
+    bounding box: (102, 129) (107, 132) (94, 135) 

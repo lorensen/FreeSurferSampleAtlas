@@ -1,0 +1,12 @@
+Name:  Left_Thalamus_Proper
+Label: 10
+    count: 10388
+    min: 54
+    max: 115
+    median: 1638.38
+    mean: 103.487
+    sigma: 8.61308
+    variance: 74.1852
+    sum: 1.07502e+06
+    region: index(128, 108, 95) size(26, 26, 39)
+    bounding box: (128, 153) (108, 133) (95, 133) 

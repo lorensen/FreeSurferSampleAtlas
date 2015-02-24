@@ -1,0 +1,12 @@
+Name:  Right_Caudate
+Label: 50
+    count: 3564
+    min: 56
+    max: 111
+    median: 1638.38
+    mean: 88.2652
+    sigma: 8.88051
+    variance: 78.8634
+    sum: 314577
+    region: index(110, 100, 100) size(15, 28, 63)
+    bounding box: (110, 124) (100, 127) (100, 162) 

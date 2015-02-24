@@ -1,0 +1,12 @@
+Name:  Left_Caudate
+Label: 11
+    count: 3989
+    min: 55
+    max: 114
+    median: 1638.38
+    mean: 88.1995
+    sigma: 9.77166
+    variance: 95.4852
+    sum: 351828
+    region: index(131, 100, 100) size(17, 31, 62)
+    bounding box: (131, 147) (100, 130) (100, 161) 

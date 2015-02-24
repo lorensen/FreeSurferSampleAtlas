@@ -1,0 +1,12 @@
+Name:  WM_hypointensities
+Label: 77
+    count: 1276
+    min: 35
+    max: 106
+    median: 1638.38
+    mean: 77.5063
+    sigma: 13.6689
+    variance: 186.838
+    sum: 98898
+    region: index(96, 87, 64) size(64, 43, 100)
+    bounding box: (96, 159) (87, 129) (64, 163) 

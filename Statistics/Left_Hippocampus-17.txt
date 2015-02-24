@@ -1,0 +1,12 @@
+Name:  Left_Hippocampus
+Label: 17
+    count: 5134
+    min: 54
+    max: 107
+    median: 1638.38
+    mean: 84.4936
+    sigma: 7.76256
+    variance: 60.2574
+    sum: 433790
+    region: index(138, 122, 87) size(27, 29, 45)
+    bounding box: (138, 164) (122, 150) (87, 131) 

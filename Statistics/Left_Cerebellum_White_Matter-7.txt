@@ -1,0 +1,12 @@
+Name:  Left_Cerebellum_White_Matter
+Label: 7
+    count: 10427
+    min: 54
+    max: 118
+    median: 1638.38
+    mean: 107.869
+    sigma: 5.41425
+    variance: 29.3141
+    sum: 1.12475e+06
+    region: index(128, 140, 47) size(41, 32, 66)
+    bounding box: (128, 168) (140, 171) (47, 112) 

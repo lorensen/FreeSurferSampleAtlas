@@ -1,0 +1,12 @@
+Name:  Right_Cerebellum_White_Matter
+Label: 46
+    count: 8920
+    min: 61
+    max: 120
+    median: 1638.38
+    mean: 108.619
+    sigma: 4.2421
+    variance: 17.9954
+    sum: 968885
+    region: index(85, 141, 51) size(44, 27, 61)
+    bounding box: (85, 128) (141, 167) (51, 111) 

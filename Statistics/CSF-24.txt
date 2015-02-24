@@ -1,0 +1,12 @@
+Name:  CSF
+Label: 24
+    count: 1377
+    min: 30
+    max: 90
+    median: 1638.38
+    mean: 54.8809
+    sigma: 11.5296
+    variance: 132.931
+    sum: 75571
+    region: index(122, 109, 101) size(13, 20, 32)
+    bounding box: (122, 134) (109, 128) (101, 132) 

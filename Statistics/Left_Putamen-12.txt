@@ -1,0 +1,12 @@
+Name:  Left_Putamen
+Label: 12
+    count: 7336
+    min: 79
+    max: 115
+    median: 1638.38
+    mean: 100.089
+    sigma: 8.25879
+    variance: 68.2076
+    sum: 734253
+    region: index(138, 107, 105) size(22, 30, 48)
+    bounding box: (138, 159) (107, 136) (105, 152) 

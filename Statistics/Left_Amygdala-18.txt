@@ -1,0 +1,12 @@
+Name:  Left_Amygdala
+Label: 18
+    count: 1722
+    min: 55
+    max: 110
+    median: 1638.38
+    mean: 84.9483
+    sigma: 6.20193
+    variance: 38.4639
+    sum: 146281
+    region: index(138, 135, 120) size(21, 17, 19)
+    bounding box: (138, 158) (135, 151) (120, 138) 

@@ -1,0 +1,12 @@
+Name:  Left_vessel
+Label: 30
+    count: 48
+    min: 56
+    max: 95
+    median: 1638.38
+    mean: 73.2708
+    sigma: 7.61225
+    variance: 57.9464
+    sum: 3517
+    region: index(149, 130, 129) size(7, 5, 8)
+    bounding box: (149, 155) (130, 134) (129, 136) 

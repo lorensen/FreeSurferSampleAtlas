@@ -1,0 +1,12 @@
+Name:  Left_VentralDC
+Label: 28
+    count: 4493
+    min: 53
+    max: 119
+    median: 1638.38
+    mean: 104.011
+    sigma: 9.4774
+    variance: 89.8211
+    sum: 467321
+    region: index(126, 127, 100) size(31, 17, 38)
+    bounding box: (126, 156) (127, 143) (100, 137) 

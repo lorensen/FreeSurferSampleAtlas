@@ -1,0 +1,12 @@
+Name:  Left_WM_hypointensities
+Label: 78
+    count: 2
+    min: 72
+    max: 77
+    median: 1638.38
+    mean: 74.5
+    sigma: 3.53553
+    variance: 12.5
+    sum: 149
+    region: index(138, 114, 160) size(2, 2, 1)
+    bounding box: (138, 139) (114, 115) (160, 160) 

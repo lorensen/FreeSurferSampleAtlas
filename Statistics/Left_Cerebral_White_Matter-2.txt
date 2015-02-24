@@ -1,0 +1,12 @@
+Name:  Left_Cerebral_White_Matter
+Label: 2
+    count: 229656
+    min: 33
+    max: 173
+    median: 1638.38
+    mean: 106.549
+    sigma: 5.5939
+    variance: 31.2917
+    sum: 2.44696e+07
+    region: index(125, 60, 26) size(63, 106, 179)
+    bounding box: (125, 187) (60, 165) (26, 204) 

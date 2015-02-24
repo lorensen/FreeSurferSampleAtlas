@@ -1,0 +1,12 @@
+Name:  Right_Lateral_Ventricle
+Label: 43
+    count: 6615
+    min: 23
+    max: 90
+    median: 1638.38
+    mean: 45.2629
+    sigma: 12.993
+    variance: 168.817
+    sum: 299414
+    region: index(94, 102, 53) size(36, 31, 110)
+    bounding box: (94, 129) (102, 132) (53, 162) 

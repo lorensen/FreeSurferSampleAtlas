@@ -1,0 +1,12 @@
+Name:  5th_Ventricle
+Label: 72
+    count: 42
+    min: 36
+    max: 72
+    median: 1638.38
+    mean: 57.0714
+    sigma: 10.405
+    variance: 108.263
+    sum: 2397
+    region: index(125, 113, 150) size(6, 4, 4)
+    bounding box: (125, 130) (113, 116) (150, 153) 

@@ -1,0 +1,12 @@
+Name:  Right_Cerebral_White_Matter
+Label: 41
+    count: 210665
+    min: 53
+    max: 124
+    median: 1638.38
+    mean: 107.078
+    sigma: 5.2635
+    variance: 27.7044
+    sum: 2.25577e+07
+    region: index(67, 61, 25) size(63, 103, 178)
+    bounding box: (67, 129) (61, 163) (25, 202) 

@@ -1,0 +1,12 @@
+Name:  Right_Putamen
+Label: 51
+    count: 6420
+    min: 74
+    max: 115
+    median: 1638.38
+    mean: 98.6341
+    sigma: 7.52479
+    variance: 56.6225
+    sum: 633231
+    region: index(96, 110, 104) size(21, 25, 51)
+    bounding box: (96, 116) (110, 134) (104, 154) 

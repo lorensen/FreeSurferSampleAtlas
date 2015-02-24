@@ -1,0 +1,12 @@
+Name:  Right_Pallidum
+Label: 52
+    count: 1742
+    min: 88
+    max: 114
+    median: 1638.38
+    mean: 107.939
+    sigma: 3.46738
+    variance: 12.0227
+    sum: 188030
+    region: index(104, 113, 114) size(15, 18, 29)
+    bounding box: (104, 118) (113, 130) (114, 142) 

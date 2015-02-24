@@ -1,0 +1,12 @@
+Name:  3rd_Ventricle
+Label: 14
+    count: 624
+    min: 24
+    max: 88
+    median: 1638.38
+    mean: 45.7596
+    sigma: 13.6365
+    variance: 185.955
+    sum: 28554
+    region: index(124, 121, 104) size(7, 19, 35)
+    bounding box: (124, 130) (121, 139) (104, 138) 

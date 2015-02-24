@@ -1,0 +1,12 @@
+Name:  Right_Cerebral_Cortex
+Label: 42
+    count: 290196
+    min: 24
+    max: 195
+    median: 1638.38
+    mean: 84.36
+    sigma: 10.1485
+    variance: 102.992
+    sum: 2.44809e+07
+    region: index(64, 56, 24) size(71, 111, 183)
+    bounding box: (64, 134) (56, 166) (24, 206) 

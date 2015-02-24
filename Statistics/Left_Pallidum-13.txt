@@ -1,0 +1,12 @@
+Name:  Left_Pallidum
+Label: 13
+    count: 1668
+    min: 94
+    max: 116
+    median: 1638.38
+    mean: 108.628
+    sigma: 2.79018
+    variance: 7.78512
+    sum: 181191
+    region: index(137, 117, 111) size(16, 16, 32)
+    bounding box: (137, 152) (117, 132) (111, 142) 

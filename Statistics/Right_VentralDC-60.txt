@@ -1,0 +1,12 @@
+Name:  Right_VentralDC
+Label: 60
+    count: 4571
+    min: 50
+    max: 119
+    median: 1638.38
+    mean: 104.323
+    sigma: 9.55683
+    variance: 91.333
+    sum: 476861
+    region: index(98, 124, 101) size(30, 20, 37)
+    bounding box: (98, 127) (124, 143) (101, 137) 

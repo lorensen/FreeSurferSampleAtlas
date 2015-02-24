@@ -1,0 +1,12 @@
+Name:  Right_WM_hypointensities
+Label: 79
+    count: 4
+    min: 81
+    max: 90
+    median: 1638.38
+    mean: 85.75
+    sigma: 3.77492
+    variance: 14.25
+    sum: 343
+    region: index(113, 76, 141) size(2, 2, 1)
+    bounding box: (113, 114) (76, 77) (141, 141) 
