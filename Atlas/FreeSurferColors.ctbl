@@ -2,12 +2,12 @@
 # 14176 values
 0 background 0 0 0 0
 1 Left-Cerebral-Exterior 70 130 180 255
-2 Left-Cerebral-White-Matter 245 245 245 0
-3 Left-Cerebral-Cortex 205 62 78 0
+2 Left-Cerebral-White-Matter 245 245 245 127
+3 Left-Cerebral-Cortex 205 62 78 127
 4 Left-Lateral-Ventricle 120 18 134 255
 5 Left-Inf-Lat-Vent 196 58 250 255
 6 Left-Cerebellum-Exterior 0 148 0 255
-7 Left-Cerebellum-White-Matter 220 248 164 0
+7 Left-Cerebellum-White-Matter 220 248 164 127
 8 Left-Cerebellum-Cortex 230 148 34 255
 9 Left-Thalamus 0 118 14 255
 10 Left-Thalamus-Proper 0 118 14 255
@@ -41,12 +41,12 @@
 38 Left-Porg 74 155 60 255
 39 Left-Aorg 122 135 50 255
 40 Right-Cerebral-Exterior 70 130 180 255
-41 Right-Cerebral-White-Matter 0 225 0 0
-42 Right-Cerebral-Cortex 205 62 78 0
+41 Right-Cerebral-White-Matter 0 225 0 127
+42 Right-Cerebral-Cortex 205 62 78 127
 43 Right-Lateral-Ventricle 120 18 134 255
 44 Right-Inf-Lat-Vent 196 58 250 255
 45 Right-Cerebellum-Exterior 0 148 0 255
-46 Right-Cerebellum-White-Matter 220 248 164 0
+46 Right-Cerebellum-White-Matter 220 248 164 127
 47 Right-Cerebellum-Cortex 230 148 34 255
 48 Right-Thalamus 0 118 14 255
 49 Right-Thalamus-Proper 0 118 14 255
@@ -195,8 +195,8 @@
 216 entorhinal-cortex 255 204 102 255
 217 molecular-layer-subiculum 128 128 128 255
 218 Amygdala 104 255 255 255
-219 Cerebral-White-Matter 0 226 0 0
-220 Cerebral-Cortex 205 63 78 0
+219 Cerebral-White-Matter 0 226 0 127
+220 Cerebral-Cortex 205 63 78 127
 221 Inf-Lat-Vent 197 58 250 255
 222 Perirhinal 33 150 250 255
 223 Cerebral-White-Matter-Edge 226 0 0 255
