@@ -1,12 +1,12 @@
 Name:  Left_Cerebral_Cortex
 Label: 3
-    count: 283398
+    count: 283478
     min: 27
     max: 185
     median: 1638.38
-    mean: 82.0041
-    sigma: 9.82901
-    variance: 96.6094
-    sum: 2.32398e+07
+    mean: 81.998
+    sigma: 9.83477
+    variance: 96.7227
+    sum: 2.32446e+07
     region: index(125, 56, 24) size(66, 115, 182)
     bounding box: (125, 190) (56, 170) (24, 205) 

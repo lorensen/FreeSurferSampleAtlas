@@ -1,12 +1,12 @@
 Name:  Left_Lateral_Ventricle
 Label: 4
-    count: 7036
+    count: 7039
     min: 23
-    max: 86
+    max: 87
     median: 1638.38
-    mean: 41.6026
-    sigma: 12.4043
-    variance: 153.866
-    sum: 292716
+    mean: 41.6213
+    sigma: 12.4345
+    variance: 154.618
+    sum: 292972
     region: index(129, 102, 50) size(32, 32, 113)
     bounding box: (129, 160) (102, 133) (50, 162) 
