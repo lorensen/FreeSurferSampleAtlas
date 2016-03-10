@@ -1,12 +1,12 @@
 Name:  Right_Cerebellum_Cortex
 Label: 47
-    count: 66136
+    count: 66138
     min: 37
     max: 130
     median: 1638.38
-    mean: 87.5652
-    sigma: 11.217
-    variance: 125.821
-    sum: 5.79121e+06
+    mean: 87.5644
+    sigma: 11.2178
+    variance: 125.839
+    sum: 5.79133e+06
     region: index(75, 127, 35) size(55, 59, 77)
     bounding box: (75, 129) (127, 185) (35, 111) 
